@@ -1,0 +1,8 @@
+=== fabric-ui
+
+Jquery plugin that creates a simple ui in selected div.
+
+=== Usage
+
+Add a canvas element, add a div
+Add javascript to call .fabricUi() on that div
