@@ -1,12 +1,18 @@
-.fabric-ui-item, .fabric-ui-button, .fabric-ui-colorselector
+.fabric-ui-item, .fabric-ui-tool-button, .fabric-ui-action-button, .fabric-ui-colorselector
 {
   width: 32px;
   height: 32px;
+  background: url(sprite.png);
 }
 
-.fabric-ui-button
+.fabric-ui-tool-button
 {
-  background: url(button-sprite.png);
+
+}
+
+.fabric-ui-action-button
+{
+
 }
 
 .fabric-ui-colorselector
