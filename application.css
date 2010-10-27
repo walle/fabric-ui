@@ -1,0 +1,21 @@
+#container
+{
+  margin: 20px;
+  float: left;
+}
+
+#container canvas
+{
+  border: 1px solid #dedede;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+
+#fabric-ui
+{
+  float: left;
+}
+
+.canvas_container { margin: 0 auto; position: relative; float: left; }
+

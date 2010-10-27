@@ -1,0 +1,17 @@
+.fabric-ui-item, .fabric-ui-button, .fabric-ui-colorselector
+{
+  width: 32px;
+  height: 32px;
+}
+
+.fabric-ui-button
+{
+  background: url(button-sprite.png);
+}
+
+.fabric-ui-colorselector
+{
+  background-image: url(vendor/colorpicker/images/select.png);
+  background-position: -2px -2px;
+}
+
