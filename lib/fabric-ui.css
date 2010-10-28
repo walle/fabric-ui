@@ -2,22 +2,47 @@
 {
   width: 32px;
   height: 32px;
-  background: url(sprite.png);
+  background: url(icons.png) 32px 0 no-repeat;
+  border: none;
+  margin: 2px;
+  padding: 1px;
 }
 
 .fabric-ui-tool-button
 {
-
+  outline: 0;
 }
 
-.fabric-ui-action-button
+.fabric-ui-tool-pen
 {
+  background-position: 0 0;
+}
 
+.fabric-ui-tool-hand
+{
+  background-position: 0 -32px;
+}
+
+.fabric-ui-action-delete
+{
+  background-position: 0 -64px;
+}
+
+.fabric-ui-action-clear
+{
+  background-position: 0 -96px;
+}
+
+.fabric-ui-item-active
+{
+  border: 1px solid #acacac;
 }
 
 .fabric-ui-colorselector
 {
   background-image: url(vendor/colorpicker/images/select.png);
   background-position: -2px -2px;
+  width: 30px;
+  height: 30px;
 }
 

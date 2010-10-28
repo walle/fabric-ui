@@ -4,6 +4,11 @@
   float: left;
 }
 
+#fabric-ui
+{
+  width: 34px;
+}
+
 #container canvas
 {
   border: 1px solid #dedede;
