@@ -4,9 +4,9 @@
   float: left;
 }
 
-#fabric-ui
+.fabric-ui-item, .fabric-ui-tool-button, .fabric-ui-action-button, .fabric-ui-colorselector
 {
-  width: 34px;
+  display: block;
 }
 
 #container canvas
