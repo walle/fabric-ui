@@ -23,6 +23,11 @@
   background-position: 0 -32px;
 }
 
+.fabric-ui-tool-add-image
+{
+  background-position: 0 -128px;
+}
+
 .fabric-ui-action-delete
 {
   background-position: 0 -64px;
@@ -31,11 +36,6 @@
 .fabric-ui-action-clear
 {
   background-position: 0 -96px;
-}
-
-.fabric-ui-action-add-image
-{
-  background-position: 0 -128px;
 }
 
 .fabric-ui-item-active
