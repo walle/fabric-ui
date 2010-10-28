@@ -4,7 +4,7 @@
   float: left;
 }
 
-.fabric-ui-item, .fabric-ui-tool-button, .fabric-ui-action-button, .fabric-ui-colorselector
+.fabric-ui-tools .button, .fabric-ui-actions .button
 {
   display: block;
 }

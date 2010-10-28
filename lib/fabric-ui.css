@@ -1,4 +1,4 @@
-.fabric-ui-item, .fabric-ui-tool-button, .fabric-ui-action-button, .fabric-ui-colorselector
+.fabric-ui-tools .button, .fabric-ui-actions .button, .fabric-ui-colorselector
 {
   width: 32px;
   height: 32px;
@@ -8,37 +8,37 @@
   padding: 1px;
 }
 
-.fabric-ui-tool-button
+.fabric-ui-tools .button
 {
   outline: 0;
 }
 
-.fabric-ui-tool-pen
+.fabric-ui-tools .pen
 {
   background-position: 0 0;
 }
 
-.fabric-ui-tool-hand
+.fabric-ui-tools .hand
 {
   background-position: 0 -32px;
 }
 
-.fabric-ui-tool-add-image
+.fabric-ui-tools .add-image
 {
   background-position: 0 -128px;
 }
 
-.fabric-ui-action-delete
+.fabric-ui-actions .delete
 {
   background-position: 0 -64px;
 }
 
-.fabric-ui-action-clear
+.fabric-ui-actions .clear
 {
   background-position: 0 -96px;
 }
 
-.fabric-ui-item-active
+.fabric-ui-tools .active
 {
   border: 1px solid #acacac;
 }
