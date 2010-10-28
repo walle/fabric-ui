@@ -33,6 +33,11 @@
   background-position: 0 -96px;
 }
 
+.fabric-ui-action-add-image
+{
+  background-position: 0 -128px;
+}
+
 .fabric-ui-item-active
 {
   border: 1px solid #acacac;
